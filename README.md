@@ -1,10 +1,10 @@
-# simple_pipeline
-# Repository for Simple Pipeline - Wrangling Class
+## Repository for Simple Pipeline - Wrangling Class
 
-## Autos Data Preprocessing
+### Autos Data Preprocessing
 
-## Objective
+Get Ready Data for Analytics:
+Data Cleaning
+Data Manipulation
+Data Preprocessing
 
-## Solution
-
-## Process 1
+Data Ready for Analytics!
